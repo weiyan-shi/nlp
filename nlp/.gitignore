@@ -1,0 +1,7 @@
+*.txt
+*.res
+*.text
+text
+*.list
+*.data
+.DS_Store
